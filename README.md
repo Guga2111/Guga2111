@@ -17,7 +17,7 @@
 
 </div><br/>
 
-💻 Software developer with 2 years of experience while still at university.
+💻 Software developer with 2 years and a half of experience while still at university.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guga2111&show_icons=true&theme=dark)
 
