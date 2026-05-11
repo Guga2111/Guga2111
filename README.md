@@ -8,7 +8,7 @@
 ## Technologies that i use in my day
 
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Redis-ff0000?style=for-the-badge&logo=redis&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black" />
   <img align="center" alt="js" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
