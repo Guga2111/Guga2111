@@ -18,4 +18,4 @@
 
 </div><br/>
 
-💻 Backend developer with 2 years and a half of experience while still at university.
+💻 Backend developer with 3 years and a half of experience while still at university.
